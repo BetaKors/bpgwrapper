@@ -8,4 +8,4 @@ This project has around 1600 LOC, and is one of my biggest ones so far. The rewr
 I learned a whole lot about Python and mainly typing-related stuff, and it was a very fun project to work on (except when I had to deal with pygame being garbage, such as getting antialiasing to work being very hard).
 
 (also btw fullscreen doesn't work on linux cuz I focused too much on fixing it for windows and forgot to add a case for linux)
-(actually I'm not even sure if it works on linux at all)
+(actually I'm not even sure if this whole thing works on linux at all)
